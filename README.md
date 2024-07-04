@@ -20,7 +20,7 @@ Mesmo tendo começado no mercado de trabalho nas áreas de atendimento e adminis
 
 ## 🚀 Alguns dos meus projetos:
 
-Atualizações em breve...
+Em breve atualizações...
 
 <!---
 CardimMelissa/CardimMelissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
