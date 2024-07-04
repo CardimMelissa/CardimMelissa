@@ -4,11 +4,11 @@
 
 - ⚡Estou iniciando minha carreira em dados.
 
-🌱 Atualmente estou cursando a faculdade de Ciência de Dados e aprendendo python, SQL e R.
+- 🌱 Atualmente estou cursando a faculdade de Ciência de Dados e aprendendo python, SQL e R.
 
-😄 Tenho conhecimentos sólidos em metodologias ágeis, pacote Office, Excel avançado, Power BI, mapeamento e automação de processos.
+- 😄 Tenho conhecimentos sólidos em metodologias ágeis, pacote Office, Excel avançado, Power BI, mapeamento e automação de processos.
 
-📫 Entre em contato comigo pelo e-mail melcardim@outlook.com
+- 📫 Entre em contato comigo pelo e-mail melcardim@outlook.com
 
 
 Como uma estudante que na maioria das vezes é autodidata, eu sou organizada, sempre busco novos conhecimentos e também me destaco pela colaboração pois estou sempre disposta a ensinar e esclarecer dúvidas, independente do assunto. 
