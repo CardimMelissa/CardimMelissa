@@ -17,7 +17,10 @@ Acima de tudo eu vejo os desafios como uma chance de aprender mais e melhorar.
 
 Mesmo tendo começado no mercado de trabalho nas áreas de atendimento e administrativo eu vejo essas experiências como importantes para a profissional de tecnologia que estou me tornando, pois me ajudaram a descobrir minha paixão na área de dados e BI, além de exercitar meu senso de colaboração e visão ampla dos processos. 
 
+
 ## 🚀 Alguns dos meus projetos:
+
+Atualizações em breve...
 
 <!---
 CardimMelissa/CardimMelissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
