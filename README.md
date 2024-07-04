@@ -1,13 +1,9 @@
 ## 👋 Olá, eu sou a Melissa!
 
 - 💞 ️Apaixonada por tecnologia e Big Data.
-
 - ⚡Estou iniciando minha carreira em dados.
-
 - 🌱 Atualmente estou cursando a faculdade de Ciência de Dados e aprendendo python, SQL e R.
-
 - 😄 Tenho conhecimentos sólidos em metodologias ágeis, pacote Office, Excel avançado, Power BI, mapeamento e automação de processos.
-
 - 📫 Entre em contato comigo pelo e-mail melcardim@outlook.com
 
 
